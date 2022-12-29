@@ -1,0 +1,14 @@
+<hotelList>
+    <hotel id="1">
+        <firstName>Black</firstName>
+        <lastName>Seals</lastName>
+        <licence>True</licence>
+        <res_start>7:00 PM PST</res_start>
+    </hotel>
+    <hotel id="2">
+        <firstName>Angel</firstName>
+        <lastName>Dust</lastName>
+        <licence>True</licence>
+        <res_start>10:00 PM PST</res_start>
+    </hotel>
+</hotelList>
