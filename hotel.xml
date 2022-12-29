@@ -1,0 +1,22 @@
+<hotelList>
+    <hotel id="1">
+        <firstName>Black</firstName>
+        <lastName>Seals</lastName>
+        <certificate>True</certificate>
+        <scores>
+            <module1>70</module1>
+            <module2>80</module2>
+            <module3>90</module3>
+        </scores>
+    </hotel>
+    <hotel id="2">
+        <firstName>Angel</firstName>
+        <lastName>Dust</lastName>
+        <certificate>True</certificate>
+        <scores>
+            <module1>80</module1>
+            <module2>80.2</module2>
+            <module3>80</module3>
+        </scores>
+    </hotel>
+</hotelList>
